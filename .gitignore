@@ -1,7 +1,5 @@
 meraki/initialization.py
-myfuntions.py
-meraki/fetch-client-mac/*.secret
-meraki/fetch-client-mac/*.log
-meraki/fetch-client-mac/.idea
-meraki/__pycache__
-__pycache__
+*.secret
+*.log
+**/.idea/
+**/__pycache__/
