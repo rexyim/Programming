@@ -1,5 +1,5 @@
 meraki/initialization.py
 meraki/fetch-client-mac/input
 meraki/fetch-client-mac/input.test
-**.
-**/__pycache__
+.idea/
+__pycache__/
