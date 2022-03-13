@@ -1,3 +1,6 @@
 meraki/initialization.py
 meraki/fetch-client-mac/input
 meraki/fetch-client-mac/input.test
+meraki/fetch-client-mac/.idea
+meraki/__pycache__
+.gitignore
