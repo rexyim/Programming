@@ -1,5 +1,7 @@
 meraki/initialization.py
-meraki/fetch-client-mac/input
-meraki/fetch-client-mac/input.test
-.idea/
-__pycache__/
+myfuntions.py
+meraki/fetch-client-mac/*.secret
+meraki/fetch-client-mac/*.log
+meraki/fetch-client-mac/.idea
+meraki/__pycache__
+__pycache__
