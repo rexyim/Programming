@@ -32,5 +32,6 @@ except:
 with open('output.secret','w') as output:
     for i in clients:
   #      if re.match(hpmac,i['mac'], re.IGNORECASE):
-                output.write(i+'\n')
+                output.write(i)
+                output.write("\n")
 # the above with code writes the serial no. and mac of meraki that matches the search criteria to the output file.
